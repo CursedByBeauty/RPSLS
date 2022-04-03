@@ -1,7 +1,7 @@
 from game import Game
 
 game = Game()
-game.run_game
+game.run_game()
 
 # You want to create 4 classes Player, Human, Ai and Game 
 
